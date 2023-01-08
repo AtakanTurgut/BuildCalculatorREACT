@@ -1,3 +1,3 @@
 # BuildCalculator
-Build a Calculator using React
+Build a Calculator using React.
 ![](pictures/calculatorSS.PNG)
